@@ -35,7 +35,7 @@ function Home2() {
               <br />
               My field of Interest's are building new &nbsp;
               <i>
-                <b className="purple">Web Development </b>
+                <b className="purple">Web Development projects </b>
               </i>
               <br />
               <br />

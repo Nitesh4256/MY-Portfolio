@@ -4,16 +4,13 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 
 import { Link } from "react-router-dom";
-import Screenshot from "../assests/Screenshot (5).png"
+import Screenshot from "../assests/Screenshot (5).png";
 
 import {
-
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
-import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -38,12 +35,16 @@ function NavBar() {
     >
       <Container>
         <Navbar.Brand href="/" className=" d-flex ">
-          <img src={Screenshot} className="d-flex" style={{
-            heigth: "80px",
-            width: "80px",
-            borderRadius: "50%"
-
-          }} alt="logo" />
+          <img
+            src={Screenshot}
+            className="d-flex"
+            style={{
+              heigth: "80px",
+              width: "80px",
+              borderRadius: "50%",
+            }}
+            alt="logo"
+          />
         </Navbar.Brand>
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
@@ -85,13 +86,6 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
-
-
-
-
-
-
-
           </Nav>
         </Navbar.Collapse>
       </Container>
