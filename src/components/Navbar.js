@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 
 import { Link } from "react-router-dom";
-import Screenshot from "../assests/Screenshot (5).png";
+import Screenshot from "../assests/picture.jpg";
 
 import {
   AiOutlineHome,
