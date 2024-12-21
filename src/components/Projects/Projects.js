@@ -22,7 +22,7 @@ function Projects() {
         "Developed a full-featured authentication system using the MERN stack. The application supports secure user login and logout, email verification via OTP, password reset, and forgot password functionality. It employs robust backend APIs for seamless integration with the frontend, ensuring a secure and user-friendly experience. The project showcases advanced authentication practices and is designed as a portfolio highlight.",
 
       ghlink: "https://github.com/Nitesh4256/authentication",
-      demoLink: "https://authentication-frontend-tqkt.onrender.com/",
+      demoLink: "https://authentication-frontend-i3lf.onrender.com/",
     },
     {
       image: inshort,
