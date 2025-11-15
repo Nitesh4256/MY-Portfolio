@@ -26,16 +26,13 @@ function Home2() {
               <br />
               <br />I am fluent in classics Like
               <i>
-                <b className="purple">
-                  {" "}
-                  React.js , Javascript , Node.js and Express.js{" "}
-                </b>
+                <b className="purple"> C++ , Python, SQL and DBMS </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My field of Interest's are Linux &nbsp;
               <i>
-                <b className="purple">Web Development projects </b>
+                <b className="purple">and DSA </b>
               </i>
               <br />
               <br />
@@ -52,11 +49,11 @@ function Home2() {
             </p>
             <span>
               {" "}
-              <b className="purple">Contact </b> :8349953301
+              <b className="purple">Contact </b> : Connect me with gmail
             </span>
             <p>
               {" "}
-              <b className="purple">Email </b>:shivharenitesh750@gmail.com
+              <b className="purple">Email </b>:anuhsakurmi1153@gmail.com
             </p>
 
             <ul className="home-about-social-links">
