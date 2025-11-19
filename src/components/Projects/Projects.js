@@ -43,15 +43,15 @@ function Projects() {
       ghlink: "https://github.com/Nitesh4256/Typing-website",
       demoLink: "https://typing-monkey-nitesh.netlify.app/",
     },
-    // {
-    //   image: Github,
-    //   isBlog: false,
-    //   title: "GitHub User Finder",
-    //   description:
-    //     "Developed a GitHub user search application using HTML, CSS, and JavaScript. Users can search for GitHub profiles by username, view profile details, and toggle between light and night modes for an enhanced user experience.",
-    //   ghlink: "https://github.com/Nitesh4256/github-detecter",
-    //   demoLink: "https://github-user-detecter.netlify.app/",
-    // },
+    {
+      image: Github,
+      isBlog: false,
+      title: "GitHub User Finder",
+      description:
+        "Developed a GitHub user search application using HTML, CSS, and JavaScript. Users can search for GitHub profiles by username, view profile details, and toggle between light and night modes for an enhanced user experience.",
+      ghlink: "https://github.com/Nitesh4256/github-detecter",
+      demoLink: "https://github-user-detecter.netlify.app/",
+    },
     {
       image: SHopingCard,
       isBlog: false,

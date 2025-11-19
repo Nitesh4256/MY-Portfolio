@@ -26,7 +26,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics Like
               <i>
-                <b className="purple"> C++ , Python, SQL and DBMS </b>
+                <b className="purple"> Jave, Node.js , Express.js </b>
               </i>
               <br />
               <br />
@@ -49,11 +49,11 @@ function Home2() {
             </p>
             <span>
               {" "}
-              <b className="purple">Contact </b> : Connect me with gmail
+              <b className="purple">Contact </b> : 8349953302
             </span>
             <p>
               {" "}
-              <b className="purple">Email </b>:anuhsakurmi1153@gmail.com
+              <b className="purple">Email </b>:shivharenitesh750@gmail.com
             </p>
 
             <ul className="home-about-social-links">
